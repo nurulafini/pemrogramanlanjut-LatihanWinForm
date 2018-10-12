@@ -1,0 +1,21 @@
+D:\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.exe.config
+D:\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.exe
+D:\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.pdb
+D:\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csprojResolveAssemblyReference.cache
+D:\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.Form1.resources
+D:\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.Properties.Resources.resources
+D:\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csproj.GenerateResource.Cache
+D:\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.exe
+D:\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.pdb
+D:\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.FrmListMahasiswa.resources
+D:\A\College\AMIKOM\SEMESTER I\PEMROGRAMAN LANJUT\PRAKTIKUM\TUGAS 3\latihanwinfrm-master\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.exe.config
+D:\A\College\AMIKOM\SEMESTER I\PEMROGRAMAN LANJUT\PRAKTIKUM\TUGAS 3\latihanwinfrm-master\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.exe
+D:\A\College\AMIKOM\SEMESTER I\PEMROGRAMAN LANJUT\PRAKTIKUM\TUGAS 3\latihanwinfrm-master\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.pdb
+D:\A\College\AMIKOM\SEMESTER I\PEMROGRAMAN LANJUT\PRAKTIKUM\TUGAS 3\latihanwinfrm-master\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csprojAssemblyReference.cache
+D:\A\College\AMIKOM\SEMESTER I\PEMROGRAMAN LANJUT\PRAKTIKUM\TUGAS 3\latihanwinfrm-master\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.Form1.resources
+D:\A\College\AMIKOM\SEMESTER I\PEMROGRAMAN LANJUT\PRAKTIKUM\TUGAS 3\latihanwinfrm-master\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.FrmListMahasiswa.resources
+D:\A\College\AMIKOM\SEMESTER I\PEMROGRAMAN LANJUT\PRAKTIKUM\TUGAS 3\latihanwinfrm-master\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.Properties.Resources.resources
+D:\A\College\AMIKOM\SEMESTER I\PEMROGRAMAN LANJUT\PRAKTIKUM\TUGAS 3\latihanwinfrm-master\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csproj.GenerateResource.cache
+D:\A\College\AMIKOM\SEMESTER I\PEMROGRAMAN LANJUT\PRAKTIKUM\TUGAS 3\latihanwinfrm-master\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csproj.CoreCompileInputs.cache
+D:\A\College\AMIKOM\SEMESTER I\PEMROGRAMAN LANJUT\PRAKTIKUM\TUGAS 3\latihanwinfrm-master\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.exe
+D:\A\College\AMIKOM\SEMESTER I\PEMROGRAMAN LANJUT\PRAKTIKUM\TUGAS 3\latihanwinfrm-master\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.pdb
